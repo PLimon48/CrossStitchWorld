@@ -1,0 +1,19 @@
+.body {
+  background-image: linear-gradient(rgb(230, 247, 255), rgb(204, 239, 255));
+}
+
+.form {
+margin: 50px;
+width: 250px;
+padding-bottom: 40px;
+}
+
+#demo-text-r {
+  line-height: 2.1;
+  padding-left: 50px;
+}
+
+#demo-text-l {
+  line-height: 2.1;
+  padding-right: 50px;
+}
